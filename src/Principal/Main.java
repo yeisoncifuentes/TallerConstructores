@@ -8,6 +8,8 @@ import java.util.Scanner;
 /**
  *
  * @author YEISON
+ * version1.0
+ * fecha 02/03/2018
  */
 public class Main {
 
